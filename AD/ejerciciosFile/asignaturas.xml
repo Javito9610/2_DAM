@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><cursos>
+        
+    <curso id="1">
+                
+        <nombre>Java</nombre>
+                
+        <horas>60</horas>
+            
+    </curso>
+        
+    <curso id="2">
+                
+        <nombre>Python</nombre>
+                
+        <horas>50</horas>
+            
+    </curso>
+    
+    <curso id="3">
+        <nombre>JavaScript</nombre>
+        <horas>30</horas>
+    </curso>
+</cursos>

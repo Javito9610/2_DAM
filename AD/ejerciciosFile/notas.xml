@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Alumnos>
+        
+    <alumno id="1">
+                
+        <nombre>Alfredo</nombre>
+                
+        <nota>10</nota>
+            
+    </alumno>
+        
+    <alumno id="2">
+                
+        <nombre>Jorge</nombre>
+                
+        <nota>9.5</nota>
+            
+    </alumno>
+        
+    <alumno id="3">
+                
+        <nombre>Jose</nombre>
+                
+        <nota>9.75</nota>
+            
+    </alumno>
+        
+    <alumno id="4">
+                
+        <nombre>Julián</nombre>
+                
+        <nota>3.15</nota>
+            
+    </alumno>
+        
+    <alumno id="5">
+                
+        <nombre>Paco</nombre>
+                
+        <nota>6.15</nota>
+            
+    </alumno>
+    
+    <alumno id="6">
+        <nombre>Pedro</nombre>
+        <nota>7.15</nota>
+    </alumno>
+</Alumnos>
